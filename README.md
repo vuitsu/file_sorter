@@ -1,2 +1,2 @@
 # file_sorter
-File sorter in python.
+> File sorter in python.

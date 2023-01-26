@@ -1,2 +1,2 @@
 # file_sorter
-> File sorter in python.
+> 📁 It sorts your files according to their extensions and stores them in a specific folder.
